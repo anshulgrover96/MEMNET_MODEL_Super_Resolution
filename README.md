@@ -17,6 +17,6 @@ You can test pretrained model MEMNET by placing the images in Set12 folder, the 
 Run the Script in MemNet_N folder. By default test.sh is written for png files, to check for jpeg files , in test.sh change .png extension for testing_set variable to .jpeg. And run bash test.sh to test the images.
 The output images can be found under results folder.
 
-<img src="Set12/HR/HR_rural_crop1.png" alt="alt text" width="256" height="256">
+<img src="https://github.com/anshulgrover96/MEMNET_MODEL_Super_Resolution/blob/master/Set12/HR/output.png" alt="alt text">
  
 
