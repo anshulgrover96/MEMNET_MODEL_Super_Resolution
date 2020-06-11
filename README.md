@@ -21,6 +21,6 @@ OUTPUT OF THE TRAINED MODEL
 
 ORIGINAL SATELLITE IMAGE    	            LR IAMGE PATCH    	                 SUPER-RESOLUTED IMAGE	
 
-![](Set12/HR/HR_rural_crop1.png width="200" height="400")![](Set12/rural1_GSD1_D10_SNR1.png) ![](results/rural1_GSD1_D10_SNR1.png)
+<img src="Set12/HR/HR_rural_crop1.png" alt="alt text" width="256" height="256"> ![](Set12/HR/HR_rural_crop1.png width="200" height="400")![](Set12/rural1_GSD1_D10_SNR1.png) ![](results/rural1_GSD1_D10_SNR1.png)
  
 
